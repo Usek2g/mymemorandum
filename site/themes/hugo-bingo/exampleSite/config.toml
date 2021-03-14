@@ -1,9 +1,8 @@
 baseURL = "/"
+languageCode = "zh-cmn-Hant"
 title = "Bingo"
 theme = "hugo-bingo"
-themesDir = "themes"
-isCJKLanguage = true
-languageCode = "ja-jp"
+themesDir = "../.."
 
 disableHugoGeneratorInject = true
 enableEmoji = true
